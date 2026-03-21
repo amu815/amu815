@@ -9,7 +9,7 @@
 ### Contact
 
 [![X: amu_Humano_Dev](https://img.shields.io/badge/-@amu__Humano__Dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amu_Humano_Dev)
-[![Blog](https://img.shields.io/badge/-Tech%20Blog-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://ai-tech-blog.suemoto-amu-815.workers.dev)
+[![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/Humanophilic_development)
 
 ## Stats
 
