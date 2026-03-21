@@ -14,7 +14,7 @@
 ## Stats
 
 <div align="center">
-    <img width="80%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amu815&theme=tokyonight">
 </div>
 
 <div align="center">
