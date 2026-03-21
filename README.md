@@ -14,12 +14,12 @@
 ## Stats
 
 <div align="center">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amu815&theme=tokyonight">
+    <img width="80%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
 </div>
 
 <div align="center">
-    <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amu815&theme=tokyonight">
-    <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amu815&theme=tokyonight&utcOffset=9">
+    <img width="40%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
+    <img width="40%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/4-productive-time.svg">
 </div>
 
 <div align="center">
