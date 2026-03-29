@@ -41,6 +41,34 @@
     <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amu815&theme=tokyo-night&hide_border=true&radius=16">
 </div>
 
+## Publications
+
+<table align="center">
+  <tr>
+    <th align="center">Submitted Conferences</th>
+    <th align="center">Accepted Conferences</th>
+    <th align="center">Submitted Journals</th>
+    <th align="center">Accepted Journals</th>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
+      <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
+      <a href="https://rcis-conf.com/rcis2026/">RCIS 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
+      <a href="https://2026.ijcai.org/">IJCAI 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/>
+    </td>
+    <td align="left">
+      <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
+    </td>
+    <td align="left">
+      <a href="https://www.jstage.jst.go.jp/browse/transinf/">IEICE Trans. 2026</a> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/>
+    </td>
+    <td align="center">
+      —
+    </td>
+  </tr>
+</table>
+
 ## My Skills
 
 <table align="center">
