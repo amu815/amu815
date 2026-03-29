@@ -23,12 +23,12 @@
 </div>
 
 <div align="center">
-    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=amu815&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=20" />
+    <img width="45.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amu815&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=20" />
     <img width="34.5%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
 </div>
 
 <div align="center">
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=amu815&theme=tokyonight&margin-w=15&margin-h=15&row=1&no-frame=true">
+    <img width="80%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/3-stats.svg">
 </div>
 
 ## Contribution
@@ -61,6 +61,8 @@
       <a href="https://docs.vllm.ai/"><img src="https://img.shields.io/badge/vLLM-006DAA?style=for-the-badge&logoColor=white" alt="vLLM"/></a>
       <br>
       <a href="https://github.com/ml-explore/mlx"><img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/></a>
+      <br>
+      <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
     </td>
     <td align="center">
       <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
@@ -77,7 +79,7 @@
       <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
       <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
       <br>
-      <a href="https://developer.nvidia.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" alt="NVIDIA" width="50" height="50"/></a>
+      <a href="https://developer.nvidia.com/"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
       <a href="https://www.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50"/></a>
     </td>
   </tr>
