@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=amu815&color=6366f1&style=flat-square)
 
-### __Kyushu University M1 — [Humanophilic Systems Lab](https://app.ait.kyushu-u.ac.jp/)__
+### __Kyushu University M2 — [Humanophilic Systems Lab](https://app.ait.kyushu-u.ac.jp/)__
 
 > Information Science and Electrical Engineering (ISEE)
 
