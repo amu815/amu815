@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <img width="45.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amu815&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=20" />
+    <img width="45.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amu815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" />
     <img width="34.5%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
 </div>
 
@@ -34,7 +34,7 @@
 ## Contribution
 
 <div align="center">
-    <img width="80%" src="https://streak-stats.demolab.com/?user=amu815&theme=tokyonight&hide_border=true&border_radius=20" />
+    <img width="80%" src="https://streak-stats.demolab.com/?user=amu815&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true" />
 </div>
 
 <div align="center">
