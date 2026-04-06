@@ -34,7 +34,7 @@
 ## Contribution
 
 <div align="center">
-    <img width="80%" src="https://streak-stats.demolab.com/?user=amu815&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true" />
+    <img width="80%" src="https://streak-stats.demolab.com/?user=amu815&theme=tokyonight&hide_border=true&border_radius=20" />
 </div>
 
 <div align="center">
