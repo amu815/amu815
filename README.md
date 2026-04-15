@@ -27,9 +27,10 @@
     <img width="34.5%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
 </div>
 
-<div align="center">
+[](<div align="center">
     <img width="80%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/3-stats.svg">
 </div>
+)
 
 ## Contribution
 
