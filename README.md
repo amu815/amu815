@@ -123,6 +123,8 @@
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
 [![Qwen](https://img.shields.io/badge/Qwen-6F42C1?style=for-the-badge&logoColor=white)](https://qwenlm.github.io/)
+[![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/gemma)
+[![Pythia](https://img.shields.io/badge/Pythia-5F259F?style=for-the-badge&logoColor=white)](https://github.com/EleutherAI/pythia)
 [![BLIP](https://img.shields.io/badge/BLIP-00A1E0?style=for-the-badge&logoColor=white)](https://github.com/salesforce/BLIP)
 
 </div>
