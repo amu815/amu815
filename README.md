@@ -53,6 +53,7 @@
   </tr>
   <tr>
     <td align="left">
+      <a href="https://cikm2026.diag.uniroma1.it/">CIKM 2026</a> <img src="https://img.shields.io/badge/CORE-A-4CAF50?style=flat-square" alt="CORE A"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://2026.ijcai.org/">IJCAI 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/><br>
       <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
