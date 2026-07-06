@@ -58,12 +58,14 @@
       <a href="https://2026.ijcai.org/">IJCAI 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/><br>
       <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
       <a href="https://icmi.acm.org/">ACM ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
+      <a href="https://hyuckjinchoi.github.io/iwcs2026/">IWCS 2026</a> <img src="https://img.shields.io/badge/Workshop-0EA5E9?style=flat-square" alt="Workshop"/><br>
       <a href="https://rcis-conf.com/rcis2026/">RCIS 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
       <a href="https://dicomo.org/2026/">DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
       <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
     </td>
     <td align="left">
       <a href="https://icmi.acm.org/">ACM ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/> <img src="https://img.shields.io/badge/Long_Paper-8B5CF6?style=flat-square" alt="Long Paper"/><br>
+      <a href="https://hyuckjinchoi.github.io/iwcs2026/">IWCS 2026</a> <img src="https://img.shields.io/badge/Workshop-0EA5E9?style=flat-square" alt="Workshop"/> <img src="https://img.shields.io/badge/Oral-8B5CF6?style=flat-square" alt="Oral"/><br>
       <a href="https://dicomo.org/2026/">DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
       <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
     </td>
