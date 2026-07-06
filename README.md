@@ -119,7 +119,7 @@
       <br>
       <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-FBF0DF?style=for-the-badge&logo=bun&logoColor=black" alt="Bun"/></a>
       <br>
-      <a href="https://flask.palletsprojects.com/"><img src="./assets/icons/flask-backplate.svg" alt="Flask" width="50" height="50"/></a>
+      <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask"/></a>
       <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
       <br>
       <a href="https://click.palletsprojects.com/"><img src="https://img.shields.io/badge/Click-1E1E1E?style=for-the-badge&logoColor=white" alt="Click"/></a>
@@ -128,7 +128,7 @@
       <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
       <br>
-      <a href="https://nextjs.org/"><img src="./assets/icons/nextjs-backplate.svg" alt="Next.js" width="50" height="50"/></a>
+      <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" alt="Next.js"/></a>
       <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/></a>
       <br>
       <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/></a>
@@ -142,7 +142,7 @@
       <br>
       <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
       <br>
-      <a href="https://www.latex-project.org/"><img src="./assets/icons/latex-backplate.svg" alt="LaTeX" width="50" height="50"/></a>
+      <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-FFFFFF?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX"/></a>
       <a href="https://www.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50"/></a>
     </td>
   </tr>
@@ -166,4 +166,4 @@
 ## Learning
 
 <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="60" height="60"/></a>
-<a href="https://www.rust-lang.org/"><img src="./assets/icons/rust-backplate.svg" alt="Rust" width="60" height="60"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000" alt="Rust"/></a>
