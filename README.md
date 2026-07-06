@@ -57,12 +57,13 @@
       <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://2026.ijcai.org/">IJCAI 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/><br>
       <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
-      <a href="https://icmi.acm.org/">ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
+      <a href="https://icmi.acm.org/">ACM ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
       <a href="https://rcis-conf.com/rcis2026/">RCIS 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
       <a href="https://dicomo.org/2026/">DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
       <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
     </td>
     <td align="left">
+      <a href="https://icmi.acm.org/">ACM ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/> <img src="https://img.shields.io/badge/Long_Paper-8B5CF6?style=flat-square" alt="Long Paper"/><br>
       <a href="https://dicomo.org/2026/">DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
       <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
     </td>
@@ -89,31 +90,57 @@
       <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
       <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/></a>
       <br>
+      <a href="https://huggingface.co/docs/transformers"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/></a>
+      <br>
+      <a href="https://huggingface.co/docs/peft"><img src="https://img.shields.io/badge/PEFT_LoRA-F59E0B?style=for-the-badge&logoColor=white" alt="PEFT / LoRA"/></a>
+      <br>
+      <a href="https://github.com/jbloomAus/SAELens"><img src="https://img.shields.io/badge/SAE_Lens-8B5CF6?style=for-the-badge&logoColor=white" alt="SAE Lens"/></a>
+      <br>
       <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
       <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/></a>
       <br>
+      <a href="https://optuna.org/"><img src="https://img.shields.io/badge/Optuna-1E40AF?style=for-the-badge&logoColor=white" alt="Optuna"/></a>
+      <br>
+      <a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-0EA5E9?style=for-the-badge&logoColor=white" alt="LightGBM"/></a>
+      <br>
+      <a href="https://wandb.ai/"><img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/></a>
+      <br>
       <a href="https://docs.vllm.ai/"><img src="https://img.shields.io/badge/vLLM-006DAA?style=for-the-badge&logoColor=white" alt="vLLM"/></a>
       <br>
-      <a href="https://github.com/ml-explore/mlx"><img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/></a>
-      <br>
       <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
+      <br>
+      <a href="https://github.com/ml-explore/mlx"><img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/></a>
     </td>
     <td align="center">
       <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
-      <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
-      <br>
       <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
+      <br>
+      <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-FBF0DF?style=for-the-badge&logo=bun&logoColor=black" alt="Bun"/></a>
+      <br>
+      <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/></a>
       <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+      <br>
+      <a href="https://click.palletsprojects.com/"><img src="https://img.shields.io/badge/Click-1E1E1E?style=for-the-badge&logoColor=white" alt="Click"/></a>
     </td>
     <td align="center">
-      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
+      <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
+      <br>
+      <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/></a>
+      <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/></a>
+      <br>
+      <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/></a>
+      <a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/></a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
       <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
       <br>
-      <a href="https://developer.nvidia.com/"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
+      <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/></a>
+      <br>
+      <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+      <br>
+      <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50"/></a>
       <a href="https://www.cloudflare.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50"/></a>
     </td>
   </tr>
@@ -126,6 +153,7 @@
 [![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Xiaomi MiMo](https://img.shields.io/badge/Xiaomi%20MiMo-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://mimo.mi.com/)
 [![Qwen](https://img.shields.io/badge/Qwen-6F42C1?style=for-the-badge&logoColor=white)](https://qwenlm.github.io/)
 [![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/gemma)
 [![Pythia](https://img.shields.io/badge/Pythia-5F259F?style=for-the-badge&logoColor=white)](https://github.com/EleutherAI/pythia)
