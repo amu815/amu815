@@ -148,7 +148,7 @@
   </tr>
 </table>
 
-## AI
+## AI Tools & Models
 
 <div align="center">
 
@@ -160,6 +160,12 @@
 [![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/gemma)
 [![Pythia](https://img.shields.io/badge/Pythia-5F259F?style=for-the-badge&logoColor=white)](https://github.com/EleutherAI/pythia)
 [![BLIP](https://img.shields.io/badge/BLIP-00A1E0?style=for-the-badge&logoColor=white)](https://github.com/salesforce/BLIP)
+[![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/meta-llama/llama-models)
+[![CLIP](https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/CLIP)
+[![SigLIP 2](https://img.shields.io/badge/SigLIP%202-34A853?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md)
+[![OpenCLIP](https://img.shields.io/badge/OpenCLIP-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mlfoundations/open_clip)
+[![FLAVA](https://img.shields.io/badge/FLAVA-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://flava-model.github.io/)
+[![ALIGN](https://img.shields.io/badge/ALIGN-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://research.google/blog/align-scaling-up-visual-and-vision-language-representation-learning-with-noisy-text-supervision/)
 
 </div>
 
