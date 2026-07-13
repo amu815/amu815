@@ -13,12 +13,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v7
+      - uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
