@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v7
       - uses: vn7n24fzkq/github-profile-summary-cards@974577f1823715ca047e9976548634816a3a0264 # release
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
