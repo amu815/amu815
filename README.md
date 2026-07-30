@@ -53,6 +53,7 @@
   </tr>
   <tr>
     <td align="left">
+      <a href="https://kdd2027.kdd.org/">ACM KDD 2027 (Cycle 1)</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://cikm2026.diag.uniroma1.it/">CIKM 2026</a> <img src="https://img.shields.io/badge/CORE-A-4CAF50?style=flat-square" alt="CORE A"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://www.dpsws.org/2026/">DPSWS 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
