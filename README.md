@@ -54,22 +54,22 @@
   <tr>
     <td align="left">
       <a href="https://kdd2027.kdd.org/">ACM KDD 2027 (Cycle 1)</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
-      <a href="https://cikm2026.diag.uniroma1.it/">CIKM 2026</a> <img src="https://img.shields.io/badge/CORE-A-4CAF50?style=flat-square" alt="CORE A"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
+      <a href="https://cikm2026.diag.uniroma1.it/">ACM CIKM 2026</a> <img src="https://img.shields.io/badge/CORE-A-4CAF50?style=flat-square" alt="CORE A"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
-      <a href="https://www.dpsws.org/2026/">DPSWS 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
+      <a href="https://www.dpsws.org/2026/">IPSJ DPSWS 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://2026.ijcai.org/">IJCAI 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/><br>
-      <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
+      <a href="https://2026.ieeeicassp.org/">IEEE ICASSP 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
       <a href="https://icmi.acm.org/">ACM ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
       <a href="https://hyuckjinchoi.github.io/iwcs2026/">IWCS 2026</a> <img src="https://img.shields.io/badge/Workshop-0EA5E9?style=flat-square" alt="Workshop"/><br>
       <a href="https://rcis-conf.com/rcis2026/">RCIS 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/><br>
-      <a href="https://dicomo.org/2026/">DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
-      <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
+      <a href="https://dicomo.org/2026/">IPSJ DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
+      <a href="https://www.dpsws.org/2025/">IPSJ DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
     </td>
     <td align="left">
       <a href="https://icmi.acm.org/">ACM ICMI 2026</a> <img src="https://img.shields.io/badge/CORE-B-3178C6?style=flat-square" alt="CORE B"/> <img src="https://img.shields.io/badge/Long_Paper-8B5CF6?style=flat-square" alt="Long Paper"/><br>
       <a href="https://hyuckjinchoi.github.io/iwcs2026/">IWCS 2026</a> <img src="https://img.shields.io/badge/Workshop-0EA5E9?style=flat-square" alt="Workshop"/> <img src="https://img.shields.io/badge/Oral-8B5CF6?style=flat-square" alt="Oral"/><br>
-      <a href="https://dicomo.org/2026/">DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
-      <a href="https://www.dpsws.org/2025/">DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
+      <a href="https://dicomo.org/2026/">IPSJ DICOMO 2026</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/><br>
+      <a href="https://www.dpsws.org/2025/">IPSJ DPSWS 2025</a> <img src="https://img.shields.io/badge/Domestic-808080?style=flat-square" alt="Domestic"/>
     </td>
     <td align="left">
       <a href="https://www.jstage.jst.go.jp/browse/transinf/">IEICE Trans. 2026</a> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/>
