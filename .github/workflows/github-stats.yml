@@ -1,0 +1,51 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "15 1 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.0
+
+      - name: Check out legacy rank generator
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.0
+        with:
+          repository: anuraghazra/github-readme-stats
+          ref: ff2e02ba6841a263b6dc26807c0ea350fafac03b
+          path: .github-readme-stats-legacy
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: "22"
+
+      - name: Install generator dependencies
+        working-directory: .github-readme-stats-legacy
+        run: npm ci --omit=dev --ignore-scripts --no-audit --no-fund
+
+      - name: Generate GitHub stats card
+        env:
+          PAT_1: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+        run: node .github/scripts/generate-github-stats.mjs
+
+      - name: Commit GitHub stats card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update GitHub stats"
+          git push

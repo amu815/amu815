@@ -23,8 +23,8 @@
 </div>
 
 <div align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Amu's GitHub stats">
-    <img width="40%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Amu's repositories per language">
+    <img width="45.5%" src="./assets/github-stats.svg" alt="Amu's GitHub stats">
+    <img width="34.5%" src="https://raw.githubusercontent.com/amu815/amu815/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Amu's repositories per language">
 </div>
 
 ## Contribution
