@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amu815&theme=tokyo-night&hide_border=true&radius=16&v=20260729" alt="Amu's contribution graph">
+    <img width="80%" src="./assets/activity-graph.svg" alt="Amu's contribution graph">
 </div>
 
 ## Publications

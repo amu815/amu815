@@ -1,0 +1,43 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  push:
+    paths:
+      - ".github/workflows/activity-graph.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.0
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@9b38b03cac7ffb9f093a82f0ea9c634d5df62297
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&hide_border=true&radius=16
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+
+      - name: Normalize generated SVG
+        run: sed -i 's/[[:blank:]]\+$//' assets/activity-graph.svg
+
+      - name: Commit activity graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update activity graph"
+          git push
