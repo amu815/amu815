@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Amu Suemoto's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits: 2575, Total PRs: 99, Total Issues: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits: 2598, Total PRs: 99, Total Issues: 0, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 109.17716513899909;
+        stroke-dashoffset: 109.01469816827296;
       }
     }
 
