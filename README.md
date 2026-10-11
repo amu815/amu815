@@ -49,9 +49,7 @@
   <tr>
     <td align="left">
       <a href="https://iclr.cc/Conferences/2027">ICLR 2027</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
-      <sub>Submitted: 2026-09-26</sub><br>
       <a href="https://www.icwsm.org/2027/">AAAI ICWSM 2027</a> <img src="https://img.shields.io/badge/CORE-A-4CAF50?style=flat-square" alt="CORE A"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
-      <sub>Submitted: 2026-09-15</sub><br>
       <a href="https://kdd2027.kdd.org/">ACM KDD 2027 (Cycle 1)</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Under_Review-FFA500?style=flat-square" alt="Under Review"/><br>
       <a href="https://cikm2026.diag.uniroma1.it/">ACM CIKM 2026</a> <img src="https://img.shields.io/badge/CORE-A-4CAF50?style=flat-square" alt="CORE A"/><br>
       <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> <img src="https://img.shields.io/badge/CORE-A%2A-4CAF50?style=flat-square" alt="CORE A*"/> <img src="https://img.shields.io/badge/Withdrawn-808080?style=flat-square" alt="Withdrawn"/><br>
